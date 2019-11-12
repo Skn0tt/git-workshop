@@ -1,5 +1,7 @@
 # git-Tutorial
 
+Authors: Jannis Baum, [Simon Knott](https://twitter.com/skn0tt)
+
 This script was conceptualized for a tutorial at [HPI](https://hpi.de)-StubS.
 
 ## General Idea
@@ -41,8 +43,9 @@ At the end, I want to give a quick overview on what can be learned / done from h
   - Find out about rebasing (aka rewriting history, what used to be forbidden)
   - Explore the Git ecosystem (CI; CD; Verification; etc.)
   - <learngitbranching.js.org>
-  - Git Fu Developing (TODO: add link here)
+  - [Git Fu Developing](https://www.youtube.com/watch?v=f-Br8cud2eI&t=947s)
     - `git bisect` is especially cool!
+- [Git Cheat Sheet by JRebel](https://jrebel.com/wp-content/uploads/2019/05/git-cheat-sheet.pdf)
 
 ## How do I teach the practical part?
 
